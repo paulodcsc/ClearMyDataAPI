@@ -9,4 +9,4 @@ coverage/
 .nyc_output/
 SETUP.MD
 STRUCTURE.MD
-
+dump.rdb
